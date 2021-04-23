@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="erreur">division by zero</string>
+    <string name="info">information</string>
+    <string name="name">Lastname</string>
+    <string name="first">Firstname</string>
+    <string name="histo">history</string>
+    <string name="taill">height</string>
+    <string name="polo">Weight</string>
+    <string name="calcul">Calculate</string>
+    <string name="acceuil">home</string>
+    <string name="cat1">overweigts</string>
+    <string name="cat2">malnutrition</string>
+    <string name="cat3">thinness</string>
+    <string name="cat4">normal body size</string>
+    <string name="cat5">moderate obesty</string>
+    <string name="cat6">severe obesty</string>
+    <string name="cat7">morbid or massive obesty</string>
+    <string name="vide5">empty lasname</string>
+    <string name="vide2">empty firsname</string>
+</resources>

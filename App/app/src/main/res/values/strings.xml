@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="erreur">Division par zero</string>
+    <string name="info">Information</string>
+    <string name="name">Nom</string>
+    <string name="first">Prenom</string>
+    <string name="taill">Taille</string>
+    <string name="catego">Taille</string>
+    <string name="polo">Poids</string>
+    <string name="calcul">Calculer</string>
+    <string name="acceuil">acceuil</string>
+    <string name="cat1">surpoids</string>
+    <string name="cat2">dénutrition</string>
+    <string name="cat3">maigreur</string>
+    <string name="cat4">corpulence normale</string>
+    <string name="cat5">obesité modérer</string>
+    <string name="cat6">obesité sévère</string>
+    <string name="cat7">obesité morbide ou massive</string>
+    <string name="vide5">nom est vide</string>
+    <string name="vide2">prenom est vide</string>
+</resources>
